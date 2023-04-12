@@ -1,0 +1,29 @@
+.section{
+   overflow: hidden;
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   padding: 4em;
+}
+
+section img{
+   margin-left: 39rem;
+   width: 350px;
+   margin-top: 1.5em;
+}
+section h1{
+    font-size: 2.5em;
+    margin-bottom: .5em;
+}
+section h1 span{
+    color: #fb3;
+    padding: 0 .2em;
+    background-color: #222;
+}
+section p{
+    margin: 1.5em;
+    color: #222;
+
+}

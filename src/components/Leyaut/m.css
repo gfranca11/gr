@@ -1,0 +1,21 @@
+.containe{
+   
+  
+    padding: 2em;
+  }
+  .b{
+  display: flex;
+  justify-content: space-between;
+  }
+  .c{
+    width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    
+  
+  }
+  
+  .start {
+    justify-content: flex-start;
+  }
+  

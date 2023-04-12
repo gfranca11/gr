@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "name": "eu te amo",
+      "budget": "190",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": null,
+      "services": [
+        {
+          "id": "2dd22d59-6149-4086-a708-99317310b8e7"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "ainda gosto de voce",
+      "budget": "908",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

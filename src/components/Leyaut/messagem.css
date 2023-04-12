@@ -1,0 +1,13 @@
+.message {
+    width: 200px;
+   background-color:#155724 ;
+    padding: 1em;
+    border: 1px solid #222;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 5px;
+    margin-bottom: 2em;
+    color: red;
+    
+}
+e{ background-color: aqua;}

@@ -1,0 +1,29 @@
+
+  .navbar{
+    display: flex;
+    justify-content: right ;
+    align-items: right;  
+    background-color: #222;
+    padding: 1em;
+  }
+  ul{
+    display: flex;
+    list-style: none;
+    margin-right: 4rem;
+  }
+img{
+  margin-right: 40rem;
+}
+  .item{
+    
+    padding-top: 1rem;
+    margin-right: 1em;
+   
+  }
+  .item a{
+    color: #FFF;
+    text-decoration: none;
+  }
+  .item a:hover{
+    color: #ffbb33;
+  }
