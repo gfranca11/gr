@@ -1,6 +1,6 @@
 <h1 align="center">
      📰
-PLATAFORMA DE GSTAO DE PROJETOS
+PLATAFORMA DE GESTAO DE PROJETOS
 </h1>
 
 <h5 align="center">
